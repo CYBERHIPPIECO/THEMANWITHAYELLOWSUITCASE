@@ -4,6 +4,9 @@
 # THE MAN WITH A YELLOW SUITCASE
 Description.
 
+Initial inspiration:
+![](IMG_2938.JPG)
+
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
 Description.
